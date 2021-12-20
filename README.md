@@ -1,2 +1,2 @@
-# JAXAB
-JAXAB marshal and un-marshal project 
+# JAXB
+JAXB marshal and un-marshal project 
